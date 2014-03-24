@@ -1,8 +1,9 @@
 #include <iostream>
+#include<conio>
 using namespace std;
 
-int main()
+void main()
 {
   cout << "Hello world!" << endl;
-  return 0;
+  getche();
 }
